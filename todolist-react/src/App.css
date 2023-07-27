@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  border: 1px black solid;
+  background: #2C2C2C;
+  width: 50%;
+  margin: 20px auto;
+  border-radius: 5px;
+  
+}
+
+
+
+.same{
+  width: 70%;
+  height: 30px;
+  border: 1px solid black;
+
+  border-radius: 5px;
+  margin: 20px auto;
+  display: inline-block;
+  color: white;
+  font-size: 16px;
+}
+h1{
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+}
+input{
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+  padding: 5px;
+  /* position: absolute; */
+
+}
+button{
+  border-radius: 5px;
+  height: 30px;
+  font-size: 16px;
+  margin-left:10px ;
+}
+/*  */
